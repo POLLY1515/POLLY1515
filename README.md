@@ -35,7 +35,10 @@ Adoro codificar, e busco sempre estar me atualizando
 ## What I don't know, give me a few days 😁
 <  <a href="https://github.com/POLLY1515">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=POLLY1515&show_icons=true&theme=dracula&include_all_commits=true&count_private" align="left" /> 
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=POLLY1515&show_icons=true&theme=dark&include_all_commits=true&count_private" align="left" />
+  <div>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=POLLY1515&layout=compact&langs_count=7&theme=dark" align="right" />
+</div>
+ 
   <!--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=POLLY1515&layout=compact&langs_count=7&theme=dracula"/>-->
 
 
@@ -55,7 +58,13 @@ Adoro codificar, e busco sempre estar me atualizando
 
 
 
- 
+
+  
+
+
+
+
+
 
 
 
