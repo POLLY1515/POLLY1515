@@ -4,7 +4,9 @@
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/)](https://www.linkedin.com/in/polianaamarante/)
- <a href = "amarantepoliana@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/polianabeatrizdoamarante" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href = "mailto:amarantepoliana@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ 
 
 
 ## About me:
@@ -33,13 +35,14 @@ Adoro codificar, e busco sempre estar me atualizando
 ## What I don't know, give me a few days 😁
 <  <a href="https://github.com/POLLY1515">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=POLLY1515&show_icons=true&theme=dracula&include_all_commits=true&count_private" align="left" /> 
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=POLLY1515&show_icons=true&theme=dark&include_all_commits=true&count_private" align="left" />
   <!--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=POLLY1515&layout=compact&langs_count=7&theme=dracula"/>-->
 
 
-  <hr>
+  
 
 
-<div>
+<!--<div>
   <img align="right" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="right" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="right" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -47,14 +50,8 @@ Adoro codificar, e busco sempre estar me atualizando
   
 </div>
 
-<div align="left">
+<div align="left"> -->
   
-  <br><br>
-    
-
-
-
-<br><hr>
 
 
 
