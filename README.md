@@ -1,4 +1,5 @@
 
+
 # Hi, I'm Poliana Beatriz!
 
 
@@ -36,4 +37,4 @@ Adoro codificar, e busco sempre estar me atualizando
 <!--   <img align="center" alt="github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"> -->
  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=POLLY1515&layout=compact&title_color=fff&text_color=f8f8f2&hide=java&bg_color=171c24)](https://github.com/POLLY1515)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=POLLY1515&layout=compact&title_color=fff&text_color=f8f8f2&hide=java&bg_color=171c24)](https://github.com/POLLY11515)-->
