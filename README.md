@@ -1,6 +1,6 @@
 
 
-# Hi, I'm Poliana Beatriz!
+# Hi, I'm Poliana Beatriz 😁!
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/)](https://www.linkedin.com/in/polianaamarante/)
@@ -11,7 +11,7 @@
 
 ## About me:
 
-Estudo para ser uma desenvolvedora Fullstack Developer :smile:
+Estudo para ser uma Desenvolvedora Java :smile:
 
 Adoro codificar, e busco sempre estar me atualizando
 ## My specialties:
@@ -32,10 +32,7 @@ Adoro codificar, e busco sempre estar me atualizando
 
 
 
-## What I don't know, give me a few days 😁
-<  <a href="https://github.com/POLLY1515">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=POLLY1515&show_icons=true&theme=dracula&include_all_commits=true&count_private" align="left" /> 
-  <div>
+ 
 
 <!--<div>
   <img align="right" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -47,6 +44,16 @@ Adoro codificar, e busco sempre estar me atualizando
 
 <div align="left"> -->
   
+
+<div align="center">
+  <a href="https://github.com/POLLY1515">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=POLLY1515&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=POLLY1515&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+  
+  ##
+ 
 
 
 
