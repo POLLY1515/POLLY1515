@@ -1,11 +1,12 @@
- 
-  <h1 align="center">
+<h1 align="center">
     Oi Tudo bem? Eu sou a
     <a href="https://www.linkedin.com/in/polianaamarante/">Poliana Amarante😃️</a>
   </h1>
   
-  <p align="center">
-    Sou Estudante  e amo a linguagem java 
+  <br align="center">
+     Sou Poliana,sou uma programador full stack,atualmente estou aprendendo e criando projetos com:</br>
+     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="">
+     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="">
   </p>
 
 </div>
