@@ -3,7 +3,7 @@
 
 # 👋 Olá, eu sou a Poliana Beatriz!
 
-💻 Desenvolvedora Full Stack com 4 anos de experiência na área de tecnologia, com foco em **Java**, **Spring Boot**, **React**, **SQL** e outras tecnologias modernas para desenvolvimento web e backend.
+💻 Desenvolvedora Back end com 4 anos de experiência na área de tecnologia, com foco em **Java**, **Spring Boot**, **React**, **SQL** e outras tecnologias modernas para desenvolvimento web e backend.
 
 Tenho paixão por resolver problemas através de código limpo e escalável, além de sempre buscar aprender novas tecnologias e boas práticas de desenvolvimento.
 
