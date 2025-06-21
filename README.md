@@ -22,8 +22,7 @@ Tenho paixão por resolver problemas através de código limpo e escalável, al�
 
 ## 🚀 Projetos em destaque:
 
-- 🔗 [Busca Cep]([(https://github.com/POLLY1515/DsViaCep))
-- 🔗 [Sistema de Controle de Estoque](https://github.com/POLLY1515/ControleEstoque)
+- 🔗 [Sistema de Controle de Estoque](https://github.com/POLLY1515/DsViaCep)
 - 🔗 [Projeto React com Consumo de API](https://github.com/POLLY1515/Projeto-React-API)
 
 
