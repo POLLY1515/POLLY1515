@@ -1,5 +1,50 @@
 
 
+# 👋 Olá, eu sou a Poliana Beatriz!
+
+💻 Desenvolvedora Full Stack com 4 anos de experiência na área de tecnologia, com foco em **Java**, **Spring Boot**, **React**, **SQL** e outras tecnologias modernas para desenvolvimento web e backend.
+
+Tenho paixão por resolver problemas através de código limpo e escalável, além de sempre buscar aprender novas tecnologias e boas práticas de desenvolvimento.
+
+---
+
+## 🛠️ Tecnologias que trabalho:
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
+## 🚀 Projetos em destaque:
+
+- 🔗 [Calculadora com Spring Boot](https://github.com/POLLY1515/Calculadora-SpringBoot)
+- 🔗 [Sistema de Controle de Estoque](https://github.com/POLLY1515/ControleEstoque)
+- 🔗 [Projeto React com Consumo de API](https://github.com/POLLY1515/Projeto-React-API)
+
+*(Você pode substituir esses pelos projetos que realmente quer destacar)*
+
+---
+
+## 📊 Estatísticas do GitHub:
+
+![Polly's GitHub stats](https://github-readme-stats.vercel.app/api?username=POLLY1515&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=POLLY1515&layout=compact&theme=dracula)
+
+---
+
+## 📫 Como me encontrar:
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/amarantepoliana)
+- 📧 Email: amarantepoliana@gmail.com
+
+---
+
+### ✨ Obrigada por visitar meu perfil! Vamos construir algo incrível juntos!
 
 
 
@@ -11,46 +56,4 @@
 
 
 
-
-
-
-
-
-
-![image](https://github.com/user-attachments/assets/a13f9551-6766-4ed5-a362-9392390e3553)
-
-<div>
-  <h1>Olá,tudo bem?</h1>
-  <p>
-    Eu sou Poliana Amarante,programadora full stack:
-  </p>
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt=""><br>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="">
-
-</div>
-
-
-<div align="center">
-    <a href="https://github.com/POLLY1515">
-      <img height="150em" src="https://github-readme-stats.vercel.app/api?username=POLLY1515&show_icons=true&theme=dracula&hide_border=false&&layout=compact" alt="">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=POLLY1515&theme=dracula&hide_border=false&&layout=compact"/>
-    </a>
-  </div>
-
-  <div>
-    <h2>Tecnologias e linguagens que utilizo</h2>
-    <img align="center" alt="Java" height="30" width="40"src="https://img.shields.io/badge/Java-ED8B00.svg?style=for-the-badge&logo=java&logoColor=%23F7DF1E"/>
-    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-
-  </div>
-
-  <h2> Onde me encontrar</h2>
-  <div align="center">
-    <a href="https://www.instagram.com/polianabeatrizdoamarante/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/polianaamarante/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a href="mailto:amarantepolly2030@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  </div>
+  
