@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://github.com/POLLY1515/POLLY1515/blob/main/banner.png" alt="Banner - Poliana Beatriz">
-</p>
+![image](https://github.com/user-attachments/assets/827a6f24-0bca-44cf-81e9-1d7a53a7f228)
+
 
 # 👋 Olá, eu sou a Poliana Beatriz!
 
