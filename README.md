@@ -22,7 +22,7 @@ Tenho paixão por resolver problemas através de código limpo e escalável, al�
 
 ## 🚀 Projetos em destaque:
 
-- 🔗 [Calculadora com Spring Boot](https://github.com/POLLY1515/Calculadora-SpringBoot)
+- 🔗 [Busca Cep]([(https://github.com/POLLY1515/DsViaCep))
 - 🔗 [Sistema de Controle de Estoque](https://github.com/POLLY1515/ControleEstoque)
 - 🔗 [Projeto React com Consumo de API](https://github.com/POLLY1515/Projeto-React-API)
 
