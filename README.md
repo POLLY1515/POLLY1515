@@ -37,7 +37,7 @@ Tenho paixão por resolver problemas através de código limpo e escalável, al�
 
 ## 📫 Como me encontrar:
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/amarantepoliana)
+- 💼 [LinkedIn](https://www.linkedin.com/in/poliana-amarante/)
 - 📧 Email: amarantepoliana@gmail.com
 
 ---
