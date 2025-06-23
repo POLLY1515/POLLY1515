@@ -1,5 +1,8 @@
 
-![Banner](https://i.imgur.com/OPgPf2u.png)
+## Back-End Java 🚀➡️ GitHub
+
+[![Java to GitHub Animation](./assets/java-to-github.gif)](https://github.com/POLLY1515)
+
 
 # 👋 Olá, eu sou a Poliana!
 
