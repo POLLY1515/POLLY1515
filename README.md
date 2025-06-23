@@ -37,7 +37,7 @@ Apaixonada por transformar ideias em código e resolver problemas com soluções
 ---
 
 ###
-![Mario World Contribution Graph](https://raw.githubusercontent.com/POLLY1515/https://github.com/POLLY1515/Java/main/assets/mario.png)
+![Mario World Contribution Graph](https://raw.githubusercontent.com/POLLY1515/https://github.com/POLLY1515/Java/main/assets/mario.gif)
 
 ## 🤝 Vamos nos conectar?
 
