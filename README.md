@@ -38,9 +38,12 @@ Apaixonada por transformar ideias em código e resolver problemas com soluções
 
 ###
 
+<<<<<<< HEAD
 ![Mario World Contribution Graph](https://raw.githubusercontent.com/POLLY1515/https://github.com/POLLY1515/Java/main/assets/mario-graph.gif)
 
 
+=======
+>>>>>>> b413ee8e3c19cce688176ce396c27cb8edc02a4b
 ## 🤝 Vamos nos conectar?
 
 - [LinkedIn](https://www.linkedin.com/in/poliana-beatriz-amarante/)
