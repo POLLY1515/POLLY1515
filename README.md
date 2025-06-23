@@ -1,7 +1,8 @@
 
 ## Back-End Java 🚀➡️ GitHub
 
-[![Java to GitHub Animation](./assets/java-to-github.gif)](https://github.com/POLLY1515)
+[![Java to GitHub Animation](./assets/java-to-github.gif)](https://github.com/SEU_USUARIO)
+
 
 
 # 👋 Olá, eu sou a Poliana!
