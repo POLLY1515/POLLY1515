@@ -36,6 +36,16 @@ Apaixonada por transformar ideias em código e resolver problemas com soluções
 
 ---
 
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/POLLY1515/POLLY1515/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/POLLY1515/POLLY1515/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/POLLY1515/POLLY1515/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
 ## 🤝 Vamos nos conectar?
 
 - [LinkedIn](https://www.linkedin.com/in/poliana-beatriz-amarante/)
