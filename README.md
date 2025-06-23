@@ -24,7 +24,7 @@
 <table>
   <tr>
     <td>🍒</td>
-    <td><a href="https://github.com/POLLY1515/https://github.com/POLLY1515/workshop-springboot3-jpa">WorkshopSpring</a></td>
+    <td><a href="https://github.com/POLLY1515/workshop-springboot3-jpa">WorkshopSpring</a></td>
     <td>🌱</td>
     <td><a href="https://github.com/POLLY1515/NomeDoProjeto2">Projeto 2</a></td>
     <td>🧱</td>
