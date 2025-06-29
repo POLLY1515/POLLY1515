@@ -65,7 +65,7 @@
 
 ## 📈 Estatísticas do GitHub:
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=POLLY1515)](https://github.com/POLLY1515/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=POLLY1515&show_icons=true&theme=synthwave)](https://github.com/POLLY1515/github-readme-stats)
 
 
 ---
