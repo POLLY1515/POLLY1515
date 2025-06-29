@@ -26,7 +26,7 @@
     <td>🍒</td>
     <td><a href="https://github.com/POLLY1515/workshop-springboot3-jpa">WorkshopSpring</a></td>
     <td>🌱</td>
-    <td><a href="https://github.com/POLLY1515/NomeDoProjeto2">Projeto 2</a></td>
+    <td><a href="https://6861b506f9c1d6b3e0d76a03--dashbord-de-vendas.netlify.app//DashbordVendas">DashbordDeVendas 2</a></td>
     <td>🧱</td>
   </tr>
   <tr>
