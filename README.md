@@ -26,7 +26,10 @@
     <td>🍒</td>
     <td><a href="https://github.com/POLLY1515/workshop-springboot3-jpa">WorkshopSpring</a></td>
     <td>🌱</td>
-    <td><a href="https://6861b506f9c1d6b3e0d76a03--dashbord-de-vendas.netlify.app//DashbordVendas">DashbordDeVendas 2</a></td>
+    <td>
+    <img src="assets/dashbord.png" alt="Dashbord" width="20">
+  </td>
+    <td><a href="https://6861b506f9c1d6b3e0d76a03--dashbord-de-vendas.netlify.app//DashbordVendas">DashbordDeVendas</a></td>
     <td>🧱</td>
   </tr>
   <tr>
