@@ -90,7 +90,7 @@
 
 ---
 
-## 🚀 Visitantes no meu perfil:
+## 🚀🚀 Visitantes no meu perfil:
 
 ![Visitors](https://komarev.com/ghpvc/?username=POLLY1515&color=blue)
 
