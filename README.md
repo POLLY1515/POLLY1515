@@ -6,95 +6,88 @@
 
 ---
 
-## 🌱 Sobre mim:
+# Olá, eu sou a Poliana Amarante 👋
 
-- 🚀 Desenvolvedora Backend especializada em *Java*
-- 💻 + de 2 anos de experiência com *Spring Boot, **APIs REST, **Banco de Dados*
-- 🔎 Sempre buscando otimizar performance e criar código escalável
-- 🎯 Em constante aprendizado e evolução no mundo da tecnologia
-- 📍 Localização: Minas Gerais - Brasil
-- 🧰 Projetos no meu [GitHub](https://github.com/POLLY1515)
+Sou desenvolvedora Back-end com foco em Java, Spring Boot, APIs REST e Banco de Dados.  
+Tenho interesse em construir aplicações organizadas, escaláveis e com boas práticas de desenvolvimento.
+
+Atualmente estou evoluindo meus conhecimentos em arquitetura de software, microsserviços, integração entre sistemas e desenvolvimento de soluções completas com back-end e front-end.
 
 ---
 
-## 👾 Meu Labirinto de Projetos 🍒 (Versão Pac-Man Style)
+## 🚀 Sobre mim
 
-<div align="center">
-
-<table>
-  <tr>
-    <td>🍒</td>
-    <td><a href="https://github.com/POLLY1515/workshop-springboot3-jpa">WorkshopSpring</a></td>
-    <td>🌱</td>
-    <td><a href="https://6861b506f9c1d6b3e0d76a03--dashbord-de-vendas.netlify.app//DashbordVendas">DashbordDeVendas</a></td>
-    <td>🧱</td>
-  </tr>
-  <tr>
-    <td>⬜</td>
-    <td>⬜</td>
-    <td>👾</td>
-    <td>⬜</td>
-    <td>⬜</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/POLLY1515/NomeDoProjeto3">Projeto 3</a></td>
-    <td>🍒</td>
-    <td>⬜</td>
-    <td>🍒</td>
-    <td><a href="https://github.com/POLLY1515/NomeDoProjeto4">Projeto 4</a></td>
-  </tr>
-  <tr>
-    <td>⬜</td>
-    <td>👻</td>
-    <td>⬜</td>
-    <td>👻</td>
-    <td>⬜</td>
-  </tr>
-  <tr>
-    <td>🧱</td>
-    <td><a href="https://github.com/POLLY1515/NomeDoProjeto5">Projeto 5</a></td>
-    <td>🌱</td>
-    <td><a href="https://github.com/POLLY1515/NomeDoProjeto6">Projeto 6</a></td>
-    <td>🍒</td>
-  </tr>
-</table>
-
-</div>
+- 💻 Desenvolvedora Back-end Java
+- ☕ Foco em Java, Spring Boot e APIs REST
+- 🗄️ Experiência com Banco de Dados e persistência de dados
+- 🔧 Interesse em arquitetura de software, microsserviços e sistemas escaláveis
+- 📚 Em constante evolução na área de tecnologia
+- 📍 Minas Gerais - Brasil
 
 ---
 
-## 📈 Estatísticas do GitHub:
+## 🛠️ Tecnologias e ferramentas
 
-   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=POLLY1515&show_icons=true&theme=radical)
-
-
----
-
-## 🚀 Tecnologias que uso:
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-## 🕹️ Um pouco de diversão pra quem passou por aqui:
+## 📌 Projetos em destaque
 
-<p align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="300px"/>
-</p>
+### 🛒 Sistema de Vendas
+Sistema back-end desenvolvido em Java para gerenciamento de vendas, com estrutura organizada para cadastro, controle e manipulação de dados.
+
+### 📊 Dashboard de Vendas
+Aplicação full stack com back-end em Java e front-end em TypeScript, criada para visualização e análise de dados de vendas.
+
+### 🚗 API de Estacionamento
+API desenvolvida em Java para gerenciamento de operações de estacionamento, aplicando conceitos de back-end, rotas e persistência.
+
+### 🧩 Arquitetura de Microsserviços
+Projeto de estudo voltado para organização de serviços independentes, separação de responsabilidades e comunicação entre módulos.
+
+### ✅ Lista de Tarefas
+Aplicação front-end para gerenciamento de tarefas, com HTML, CSS e JavaScript, utilizando persistência local dos dados.
 
 ---
 
-## 🚀🚀 Visitantes no meu perfil:
+## 📈 Estatísticas do GitHub
 
-![Visitors](https://komarev.com/ghpvc/?username=POLLY1515&color=blue)
+![Poliana GitHub stats](https://github-readme-stats.vercel.app/api?username=POLLY1515&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=POLLY1515&layout=compact&theme=radical)
 
 ---
 
+## 🎯 Atualmente estudando
 
-## ⭐ Obrigada por visitar meu perfil!  
+- Spring Boot avançado
+- APIs RESTful
+- Microsserviços
+- Banco de Dados
+- Boas práticas de código
+- Testes automatizados
+- Integração entre back-end e front-end
+
+---
+
+## 📫 Contato
+
+- LinkedIn: [Poliana Amarante](https://www.linkedin.com/in/poliana-amarante/)
+- E-mail: amarantepoliana@gmail.com
+
+---
+
+⭐ Obrigada por visitar meu perfil!
 ## 🤝 Vamos nos conectar?
 
 - [LinkedIn](https://www.linkedin.com/in/poliana-amarante/)
