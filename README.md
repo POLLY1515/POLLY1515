@@ -1,4 +1,4 @@
-<h1 align="center">👩‍💻 Poliana Amarante - Backend Java Developer 🍃</h1>
+<h1 align="center">👩‍💻 Desenvolvedora Back-end Java | Spring Boot | APIs REST | Banco de Dados | Em evolução constante na criação de soluções escaláveis 🍃</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=450&lines=Backend+Java+Developer;Amante+de+c%C3%B3digo+limpo;Performance+%26+Escalabilidade;Em+busca+de+novos+desafios" alt="Typing SVG" />
