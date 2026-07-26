@@ -46,17 +46,10 @@ Atualmente estou evoluindo meus conhecimentos em arquitetura de software, micros
 ### 🛒 Sistema de Vendas
 Sistema back-end desenvolvido em Java para gerenciamento de vendas, com estrutura organizada para cadastro, controle e manipulação de dados.
 
-### 📊 Dashboard de Vendas
-Aplicação full stack com back-end em Java e front-end em TypeScript, criada para visualização e análise de dados de vendas.
 
-### 🚗 API de Estacionamento
-API desenvolvida em Java para gerenciamento de operações de estacionamento, aplicando conceitos de back-end, rotas e persistência.
 
-### 🧩 Arquitetura de Microsserviços
-Projeto de estudo voltado para organização de serviços independentes, separação de responsabilidades e comunicação entre módulos.
 
-### ✅ Lista de Tarefas
-Aplicação front-end para gerenciamento de tarefas, com HTML, CSS e JavaScript, utilizando persistência local dos dados.
+
 
 ---
 
