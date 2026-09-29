@@ -1,16 +1,17 @@
 <h1 align="center">Olá, eu sou a Poliana Amarante 👋</h1>
 
 <h3 align="center">
-Desenvolvedora Backend Java | Spring Boot | APIs REST | PostgreSQL
+Analista de Suporte TI | Desenvolvedora Backend Java | Spring Boot | APIs REST | SQL
 </h3>
 
 <p align="center">
-Desenvolvimento de aplicações backend utilizando Java e Spring Boot,
-com foco em APIs REST, arquitetura de software, persistência de dados
-e boas práticas de desenvolvimento.
+Profissional em formação na área de tecnologia, com conhecimentos em suporte técnico,
+desenvolvimento backend e resolução de problemas utilizando Java, Spring Boot, APIs REST
+e bancos de dados relacionais.
 </p>
 
 <p align="center">
+
 <a href="https://www.linkedin.com/in/poliana-amarante/">
 <img src="https://img.shields.io/badge/LinkedIn-Poliana%20Amarante-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
 </a>
@@ -18,32 +19,28 @@ e boas práticas de desenvolvimento.
 <a href="mailto:amarantepoliana@gmail.com">
 <img src="https://img.shields.io/badge/E--mail-amarantepoliana%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"/>
 </a>
-</p>
 
+</p>
 
 ---
 
-## Sobre mim
+# Sobre mim
 
-Sou desenvolvedora backend com foco em **Java, Spring Boot, APIs REST e bancos de dados relacionais**.
+Sou estudante de **Engenharia de Software** e tenho interesse em atuar na área de tecnologia,
+com foco em **Analista de Suporte, desenvolvimento backend e soluções de software**.
 
-Tenho desenvolvido projetos práticos aplicando conceitos utilizados no desenvolvimento de software, como:
+Tenho desenvolvido projetos práticos utilizando **Java, Spring Boot, APIs REST, SQL e bancos
+de dados relacionais**, aplicando conceitos como arquitetura em camadas, regras de negócio,
+validações, persistência de dados e tratamento de erros.
 
-- arquitetura em camadas;
-- desenvolvimento de APIs REST;
-- persistência de dados com Spring Data JPA;
-- modelagem de entidades;
-- validação de dados;
-- tratamento de exceções;
-- regras de negócio;
-- versionamento de código;
-- testes automatizados;
-- Docker e ambientes reproduzíveis.
+Também possuo experiência com atendimento ao cliente, desenvolvendo habilidades importantes
+para suporte técnico, como comunicação, organização, entendimento das necessidades dos usuários
+e busca por soluções eficientes.
 
-Busco evoluir continuamente na construção de aplicações backend organizadas, escaláveis e alinhadas às boas práticas utilizadas por equipes de desenvolvimento.
+Busco uma oportunidade onde eu possa contribuir com análise de problemas, suporte aos usuários,
+documentação técnica e evolução contínua dos processos de tecnologia.
 
 📍 Minas Gerais, Brasil
-
 
 ---
 
@@ -57,42 +54,64 @@ Busco evoluir continuamente na construção de aplicações backend organizadas,
 
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 
 </p>
 
 
-## Conhecimentos
+# Conhecimentos técnicos
 
+### Desenvolvimento Backend
+- Java
+- Spring Boot
+- APIs REST
 - Spring Data JPA
-- Bean Validation
-- DTOs e separação de responsabilidades
+- Hibernate
 - Arquitetura em camadas
-- Tratamento global de exceções
-- JUnit 5 e Mockito
-- Docker
-- Flyway
-- GitHub Actions
-- Microsserviços
-- Mensageria
-- Observabilidade
+- DTOs e separação de responsabilidades
+- Validação de dados
+- Regras de negócio
+- Tratamento de exceções
 
+### Banco de Dados
+- PostgreSQL
+- SQL
+- Modelagem de entidades
+- Consultas e persistência de dados
+
+### Testes e Ferramentas
+- JUnit
+- Mockito
+- Postman
+- Swagger/OpenAPI
+- Git/GitHub
+- Docker
+- Maven
+
+### Suporte e Tecnologia
+- Análise e investigação de falhas
+- Testes de funcionalidades
+- Documentação técnica
+- Resolução de problemas
+- Atendimento e comunicação com usuários
 
 ---
 
-# Projeto em destaque
+# Projeto em destaque 🚀
 
-
-## Sistema de Vendas
+## Sistema de Vendas - API REST Backend
 
 🔗 https://github.com/POLLY1515/Sistema-de-vendas
 
 
-API REST desenvolvida utilizando:
+Projeto prático desenvolvido para simular uma aplicação comercial,
+envolvendo gerenciamento de clientes, produtos e operações de vendas.
+
+A aplicação foi construída utilizando:
 
 - Java 21
 - Spring Boot
@@ -101,26 +120,11 @@ API REST desenvolvida utilizando:
 - Maven
 
 
-O projeto tem como objetivo simular um sistema comercial para gerenciamento de clientes, produtos e operações de vendas.
+## Funcionalidades desenvolvidas
 
+✔ Desenvolvimento de API REST
 
-## Arquitetura do projeto
-Controller
-|
-↓
-Service
-|
-↓
-Repository
-|
-↓
-Database PostgreSQL
-
-## Funcionalidades implementadas
-
-✔ Criação de APIs REST
-
-✔ Gerenciamento de clientes
+✔ Cadastro e gerenciamento de clientes
 
 ✔ Gerenciamento de produtos
 
@@ -132,30 +136,61 @@ Database PostgreSQL
 
 ✔ Validação de dados
 
-✔ Regras de negócio
+✔ Implementação de regras de negócio
 
-✔ Organização entre Controllers, Services e Repositories
+✔ Organização utilizando Controllers, Services e Repositories
+
+✔ Consultas e manipulação de dados
 
 
-## Evoluções planejadas
+## Arquitetura utilizada
 
-- Separação completa entre DTOs e entidades
-- Tratamento centralizado de exceções
+```
+Controller
+    ↓
+Service
+    ↓
+Repository
+    ↓
+Database PostgreSQL
+```
+
+
+## Melhorias planejadas
+
+- Implementação de autenticação e autorização
+- Documentação completa com Swagger/OpenAPI
 - Testes unitários e testes de integração
-- Documentação da API com OpenAPI/Swagger
-- Migrations utilizando Flyway
 - Dockerização da aplicação
-- Pipeline CI/CD
+- Pipeline de integração contínua
+
+
+---
+
+# Competências profissionais
+
+✔ Perfil analítico e organizado
+
+✔ Facilidade para aprender novas tecnologias
+
+✔ Resolução de problemas
+
+✔ Comunicação com usuários
+
+✔ Trabalho em equipe
+
+✔ Busca constante por evolução profissional
 
 
 ---
 
 # Objetivo profissional
 
-Atuar no desenvolvimento backend utilizando Java e Spring Boot, contribuindo na criação de APIs REST, regras de negócio e soluções de software bem estruturadas.
+Atuar na área de tecnologia como **Analista de Suporte ou Desenvolvedora Backend Java Júnior**,
+contribuindo com conhecimentos técnicos, capacidade de análise e vontade de aprender.
 
-Tenho interesse em ambientes onde possa aplicar boas práticas de desenvolvimento e evoluir tecnicamente junto ao time.
-
+Tenho interesse em ambientes onde possa evoluir profissionalmente, colaborar com a equipe
+e ajudar na construção de soluções eficientes.
 
 ---
 
@@ -164,7 +199,5 @@ Tenho interesse em ambientes onde possa aplicar boas práticas de desenvolviment
 LinkedIn:
 https://www.linkedin.com/in/poliana-amarante/
 
-
 E-mail:
 amarantepoliana@gmail.com
-
