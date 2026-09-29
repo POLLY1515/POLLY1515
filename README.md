@@ -57,6 +57,11 @@ Busco uma oportunidade onde eu possa aplicar meus conhecimentos em backend, evol
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 
 </p>
 
@@ -120,8 +125,7 @@ Busco uma oportunidade onde eu possa aplicar meus conhecimentos em backend, evol
 🔗 https://github.com/POLLY1515/Sistema-de-vendas
 
 
-Projeto prático desenvolvido para simular uma aplicação comercial,
-envolvendo gerenciamento de clientes, produtos e operações de vendas.
+API REST backend desenvolvida em Java 21 e Spring Boot para gerenciamento de operações comerciais, aplicando conceitos utilizados em aplicações profissionais como autenticação, segurança, persistência de dados e arquitetura em camadas.
 
 A aplicação foi construída utilizando:
 
