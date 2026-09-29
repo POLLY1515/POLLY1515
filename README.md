@@ -1,13 +1,13 @@
 <h1 align="center">Olá, eu sou a Poliana Amarante 👋</h1>
 
 <h3 align="center">
-Analista de Suporte TI | Desenvolvedora Backend Java | Spring Boot | APIs REST | SQL
+Desenvolvedora Backend Java | Spring Boot | APIs REST | SQL | Sistemas e Soluções Tecnológicas
 </h3>
 
 <p align="center">
-Profissional em formação na área de tecnologia, com conhecimentos em suporte técnico,
-desenvolvimento backend e resolução de problemas utilizando Java, Spring Boot, APIs REST
-e bancos de dados relacionais.
+Desenvolvimento de aplicações backend utilizando Java e Spring Boot,
+com foco em APIs REST, arquitetura de software, persistência de dados,
+boas práticas de desenvolvimento e soluções eficientes.
 </p>
 
 <p align="center">
@@ -22,25 +22,21 @@ e bancos de dados relacionais.
 
 </p>
 
+
 ---
 
 # Sobre mim
 
-Sou estudante de **Engenharia de Software** e tenho interesse em atuar na área de tecnologia,
-com foco em **Analista de Suporte, desenvolvimento backend e soluções de software**.
+Sou estudante de **Engenharia de Software** com foco em desenvolvimento backend utilizando **Java e Spring Boot**.
 
-Tenho desenvolvido projetos práticos utilizando **Java, Spring Boot, APIs REST, SQL e bancos
-de dados relacionais**, aplicando conceitos como arquitetura em camadas, regras de negócio,
-validações, persistência de dados e tratamento de erros.
+Tenho desenvolvido projetos práticos aplicando conceitos utilizados no mercado de software, como desenvolvimento de APIs REST, arquitetura em camadas, regras de negócio, persistência de dados, validações, tratamento de exceções e boas práticas de programação.
 
-Também possuo experiência com atendimento ao cliente, desenvolvendo habilidades importantes
-para suporte técnico, como comunicação, organização, entendimento das necessidades dos usuários
-e busca por soluções eficientes.
+Além do desenvolvimento, possuo interesse em **sustentação e suporte de sistemas**, utilizando minha base técnica para analisar problemas, investigar falhas, realizar testes, documentar soluções e contribuir para uma melhor experiência dos usuários.
 
-Busco uma oportunidade onde eu possa contribuir com análise de problemas, suporte aos usuários,
-documentação técnica e evolução contínua dos processos de tecnologia.
+Busco uma oportunidade onde eu possa aplicar meus conhecimentos em backend, evoluir tecnicamente e contribuir com soluções organizadas, eficientes e alinhadas às necessidades da empresa.
 
 📍 Minas Gerais, Brasil
+
 
 ---
 
@@ -52,56 +48,72 @@ documentação técnica e evolução contínua dos processos de tecnologia.
 
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
 
+<img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 
 </p>
 
 
+---
+
 # Conhecimentos técnicos
 
-### Desenvolvimento Backend
+## Backend
+
 - Java
 - Spring Boot
-- APIs REST
 - Spring Data JPA
+- Spring Security
+- APIs REST
 - Hibernate
 - Arquitetura em camadas
 - DTOs e separação de responsabilidades
+- Modelagem de entidades
 - Validação de dados
 - Regras de negócio
 - Tratamento de exceções
 
-### Banco de Dados
+
+## Banco de Dados
+
 - PostgreSQL
 - SQL
-- Modelagem de entidades
-- Consultas e persistência de dados
+- Persistência de dados
+- Consultas e manipulação de dados
 
-### Testes e Ferramentas
-- JUnit
+
+## Testes e Ferramentas
+
+- JUnit 5
 - Mockito
 - Postman
 - Swagger/OpenAPI
 - Git/GitHub
-- Docker
 - Maven
+- Docker
 
-### Suporte e Tecnologia
-- Análise e investigação de falhas
+
+## Sustentação e Análise de Sistemas
+
+- Investigação de falhas
+- Análise de erros
 - Testes de funcionalidades
 - Documentação técnica
-- Resolução de problemas
-- Atendimento e comunicação com usuários
+- Validação de soluções
+- Apoio na resolução de problemas
+
 
 ---
 
 # Projeto em destaque 🚀
+
 
 ## Sistema de Vendas - API REST Backend
 
@@ -116,15 +128,18 @@ A aplicação foi construída utilizando:
 - Java 21
 - Spring Boot
 - Spring Data JPA
+- Spring Security
 - PostgreSQL
 - Maven
+- Docker
+- Swagger/OpenAPI
 
 
 ## Funcionalidades desenvolvidas
 
 ✔ Desenvolvimento de API REST
 
-✔ Cadastro e gerenciamento de clientes
+✔ Gerenciamento de clientes
 
 ✔ Gerenciamento de produtos
 
@@ -138,9 +153,9 @@ A aplicação foi construída utilizando:
 
 ✔ Implementação de regras de negócio
 
-✔ Organização utilizando Controllers, Services e Repositories
+✔ Controle de acesso utilizando autenticação
 
-✔ Consultas e manipulação de dados
+✔ Tratamento de erros
 
 
 ## Arquitetura utilizada
@@ -156,48 +171,46 @@ Database PostgreSQL
 ```
 
 
-## Melhorias planejadas
+## Práticas aplicadas
 
-- Implementação de autenticação e autorização
-- Documentação completa com Swagger/OpenAPI
-- Testes unitários e testes de integração
-- Dockerização da aplicação
-- Pipeline de integração contínua
+✔ Organização em camadas
+
+✔ Separação de responsabilidades
+
+✔ Versionamento com Git/GitHub
+
+✔ Documentação de endpoints
+
+✔ Boas práticas de desenvolvimento backend
 
 
----
+## Próximas evoluções
 
-# Competências profissionais
-
-✔ Perfil analítico e organizado
-
-✔ Facilidade para aprender novas tecnologias
-
-✔ Resolução de problemas
-
-✔ Comunicação com usuários
-
-✔ Trabalho em equipe
-
-✔ Busca constante por evolução profissional
+- Ampliação da cobertura de testes
+- Melhorias na documentação da API
+- Evolução das regras de negócio
+- Aprimoramento da arquitetura
+- Implementação de novas funcionalidades
 
 
 ---
 
 # Objetivo profissional
 
-Atuar na área de tecnologia como **Analista de Suporte ou Desenvolvedora Backend Java Júnior**,
-contribuindo com conhecimentos técnicos, capacidade de análise e vontade de aprender.
+Atuar como **Desenvolvedora Backend Java Júnior** ou em áreas relacionadas à **sustentação e suporte de sistemas**, contribuindo com conhecimentos técnicos, capacidade analítica e vontade de aprender.
 
-Tenho interesse em ambientes onde possa evoluir profissionalmente, colaborar com a equipe
-e ajudar na construção de soluções eficientes.
+Tenho interesse em ambientes onde possa evoluir profissionalmente, colaborar com a equipe e participar da construção de soluções de tecnologia.
+
 
 ---
 
 # Contato
 
 LinkedIn:
+
 https://www.linkedin.com/in/poliana-amarante/
 
+
 E-mail:
+
 amarantepoliana@gmail.com
